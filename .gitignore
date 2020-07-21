@@ -1,0 +1,10 @@
+# virtualenv
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# VS code config
+.vscode/
+
+.DS_Store
